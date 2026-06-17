@@ -1,5 +1,13 @@
 h2 {
+    font size: 150px;
     color:blue;
     text-align:center
 }
 
+img {
+    width: 250px;
+    height: 250px; 
+    border-radius: 50%;
+    display: block;
+    margin:auto;
+}
