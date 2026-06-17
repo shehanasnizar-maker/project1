@@ -1,13 +1,17 @@
 h2 {
     color:blue;
-    text-align:center
-    size: 150px;
+    text-align:center;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-decoration-thickness: 5px;
+    text-size-adjust: 150px;
 }
 
 img {
-    width: 250px;
-    height: 250px; 
+    width: 200px;
+    height: 200px; 
     border-radius: 50%;
+    border: 5px solid black;
     display: block;
     margin:auto;
 }
