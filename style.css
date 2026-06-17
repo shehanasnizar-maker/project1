@@ -1,10 +1,11 @@
 h2 {
-    color:blue;
+    color:rgb(255, 17, 0);
     text-align:center;
     text-decoration: underline;
-    text-decoration-color: red;
-    text-decoration-thickness: 5px;
+    text-decoration-color: rgb(0, 0, 0);
+    text-decoration-thickness: 2px;
     text-size-adjust: 150px;
+    font-size: 65px;
 }
 
 img {
